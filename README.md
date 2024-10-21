@@ -28,7 +28,7 @@ If you use this code or use our pre-trained weights for your research, please ci
 ```
 
 ## Official implementation
-- [PyTorch/](https://github.com/YutingHe-list/GVSL/tree/main/GEMINI/PyTorch)
+- [PyTorch/](https://github.com/YutingHe-list/MGANet/pytorch)
 
 ## Acknowledgments
 This research was supported by the National Natural Science Foundation under grants (31571001, 61828101, 31800825), Southeast University-Nanjing Medical University Cooperative Research Project (2242019K3DN08 ) and Excellence Project Funds of Southeast University. We thank the Big Data Computing Center of Southeast University for providing the facility support on the numerical calculations in this paper.
