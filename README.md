@@ -9,7 +9,7 @@
 <p align="center"><img width="80%" src="fig/fig.png" /></p>
 
 ## Paper
-This repository provides the official PyTorch implementation of GEMINI in the following papers:
+This repository provides the official PyTorch implementation of MGANet in the following papers:
 
 **Meta grayscale adaptive network for 3D integrated renal structures segmentation**<br/> 
 [Yuting He](https://yutinghe-list.github.io/), Guanyu Yang, Jian Yang, Rongjun Ge, Youyong Kong, Xiaomei Zhu, Shaobo Zhang, Pengfei Shao, Huazhong Shu, Jean-Louis Dillenseger, Jean-Louis Coatrieux, [Shuo Li](http://www.digitalimaginggroup.ca/members/shuo.php)<br/>
