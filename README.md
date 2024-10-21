@@ -16,7 +16,7 @@ This repository provides the official PyTorch implementation of GEMINI in the fo
 Southeast University <br/>
 
 ## Citation
-If you use this code or use our pre-trained weights for your research, please cite our papers:
+If you use this code for your research, please cite our papers:
 ```
 @article{he2021meta,
   title={Meta grayscale adaptive network for 3D integrated renal structures segmentation},
