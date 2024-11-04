@@ -10,6 +10,6 @@
 ## Visualization
 
 ### Segmentation results
-<p align="center"><img width="100%" src="7e7fb19c717f7d96d1ab82c1bc19149.jpg" /></p>
+<p align="center"><img width="80%" src="7e7fb19c717f7d96d1ab82c1bc19149.jpg" /></p>
 
-<p align="center"><img width="100%" src="0f459e5f601bbfa33338767744221ff" /></p>
+<p align="center"><img width="80%" src="0f459e5f601bbfa33338767744221ff" /></p>
