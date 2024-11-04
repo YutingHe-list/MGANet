@@ -33,7 +33,7 @@ If you use this code for your research, please cite our papers:
 - [PyTorch/](https://github.com/YutingHe-list/MGANet/pytorch)
 
 ## Related clinical study
-- [Tumor's distance to renal venous system in the risk of selective renal artery clamping.]()
+- [Tumor's distance to renal venous system in the risk of selective renal artery clamping.](https://github.com/YutingHe-list/MGANet/tree/main/Clinical%20works)
 
 ## Acknowledgments
 This research was supported by the National Natural Science Foundation under grants (31571001, 61828101, 31800825), Southeast University-Nanjing Medical University Cooperative Research Project (2242019K3DN08 ) and Excellence Project Funds of Southeast University. We thank the Big Data Computing Center of Southeast University for providing the facility support on the numerical calculations in this paper.
