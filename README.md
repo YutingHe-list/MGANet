@@ -30,7 +30,7 @@ If you use this code for your research, please cite our papers:
 ```
 
 ## Official implementation
-- [PyTorch/](https://github.com/YutingHe-list/MGANet/pytorch)
+- [PyTorch/](https://github.com/YutingHe-list/MGANet/tree/main/pytorch/MGANet)
 
 ## Related clinical study
 - [Tumor's distance to renal venous system in the risk of selective renal artery clamping.](https://github.com/YutingHe-list/MGANet/tree/main/Clinical%20works)
